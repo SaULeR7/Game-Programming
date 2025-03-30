@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b43643306a7fc4347aca58c58911de7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelCompleteScreen: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
